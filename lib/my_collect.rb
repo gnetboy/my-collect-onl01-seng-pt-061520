@@ -1,5 +1,5 @@
 def my_collect(array)
- name.split(" ").first 
+ 
 i=0
 collection =[]
 while i < array.length
