@@ -4,8 +4,8 @@ i=0
 collection =[]
 while i < array.length
 collection = yield(array[i]) 
-name.split(" ").first
-lang.upcase
+item.split(" ").first
+item.upcase
 i +=1
 end
 collection
